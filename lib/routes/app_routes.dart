@@ -1,5 +1,7 @@
 
 import 'package:get/get.dart';
+import 'package:wash_car_app/presentation/splash_screen/binding/splash_binding.dart';
+import 'package:wash_car_app/presentation/splash_screen/splash_screen.dart';
 
 class AppRoutes {
   static const String splashScreen = '/splash_screen';
